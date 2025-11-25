@@ -91,3 +91,7 @@ MIT
 ## קרדיטים
 
 נתוני רחובות מ-[OpenStreetMap](https://www.openstreetmap.org/)
+
+---
+
+Created with [Kiro](https://aws.amazon.com/q/developer/)
