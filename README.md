@@ -30,7 +30,7 @@
 
 התקנה:
 ```bash
-pip install requests
+pip install -r requirements.txt
 ```
 
 ניתוח עיר אחת:
